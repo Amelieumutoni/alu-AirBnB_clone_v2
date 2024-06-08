@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-#web_static development
-
+# web static development
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install nginx
